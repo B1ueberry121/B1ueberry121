@@ -2,9 +2,11 @@
   
 # B1ueberry121  [[RESUME]](Resume.pdf)
 
-<img src="Yoshi.gif" width="100%"/>
+<img src="Yoshi.gif" width="50%"/>
   
   -------
+  
+  Progress in being a Software Engineer at Holberton School.
   
   #### "At Nintendo, we do not run from risk. We run to it." (Nintendo)
 
