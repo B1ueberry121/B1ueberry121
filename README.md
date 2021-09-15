@@ -2,7 +2,7 @@
   
 # B1ueberry121  [[RESUME]](Resume.pdf)
 
-<img src="" width="100%"/>
+<img src="Yoshi.gif" width="100%"/>
   
   -------
 
