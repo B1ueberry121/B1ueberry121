@@ -1,6 +1,6 @@
 <div align="center">
   
-# B1ueberry121  [[RESUME]](resume.pdf)
+# B1ueberry121  [[RESUME]](Resume.pdf)
 
 <img src="" width="100%"/>
   
