@@ -1,6 +1,6 @@
 <div align="center">
   
-# B1ueberry121  [[RESUME]](Resume.odt)
+# B1ueberry121  [[RESUME]](Resume.pdf)
 
 <img src="Yoshi.gif" width="50%"/>
   
